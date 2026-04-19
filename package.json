@@ -1,0 +1,14 @@
+{
+  "name": "wddm126-final-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "echo \"Starting project\"",
+  "dev": "echo \"Dev mode running\""
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
